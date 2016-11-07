@@ -155,7 +155,7 @@
        2001.
           display scr-menu
           move 0                  to ws-opcao
-          accept  ws-opcao
+          accept  ws-opcao        at 0602
           with update auto-skip
           accept ws-teclas from escape key
           if   esc
