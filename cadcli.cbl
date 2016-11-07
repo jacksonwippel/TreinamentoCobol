@@ -168,6 +168,8 @@
                   perform 2002-excluir
               when 3
                   perform 2003-imprimir
+              when 4
+                  perform 2004-cadastro-cidades
               when 9
                   perform 3000-finaliza
           end-evaluate.
@@ -175,6 +177,13 @@
        2001-exit section.
        2001.
           exit.
+
+       2004-cadastro-cidades section.
+       2004.
+
+       2004.
+          exit.
+
 
        2003-imprimir section.
        2003.
