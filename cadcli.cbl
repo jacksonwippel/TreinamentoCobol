@@ -1,6 +1,6 @@
        identification division.
        program-id. cadcli.
-       author. HBSIS Informática Ltda by Jackson R Wippel.
+       author. HBSIS Informática Solucoes em TI by Jackson R Wippel.
        date-written. 01/04/2012 (Treinamento Cobol) utilizando Git
        environment division.
          configuration section.
