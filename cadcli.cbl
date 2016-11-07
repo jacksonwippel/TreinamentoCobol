@@ -170,12 +170,20 @@
                   perform 2003-imprimir
               when 4
                   perform 2004-cadastro-cidades
+              when 5
+                  perform 2005-cadastro-bairros
               when 9
                   perform 3000-finaliza
           end-evaluate.
 
        2001-exit section.
        2001.
+          exit.
+
+       2005-cadastro-cidades section.
+       2005.
+
+       2005.
           exit.
 
        2004-cadastro-cidades section.
