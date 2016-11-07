@@ -110,8 +110,9 @@
            03 line 04 column 01 "(2) Exclusao Cliente".
            03 line 05 column 01 "(3) Impressao       ".
            03 line 05 column 01 "(4) Cadastro Cidades".
-           03 line 06 column 01 "( ) Opcao".
-           03 line 07 column 01 "F1-Ajuda".
+           03 line 06 column 01 "(5) Cadastro Bairros".
+           03 line 07 column 01 "( ) Opcao".
+           03 line 08 column 01 "F1-Ajuda".
 
 
        procedure division.
