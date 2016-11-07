@@ -16,7 +16,7 @@
        78 relatorio-impressao                     value "impressao".
 
        01 ws-param-relatorio.
-          03 ws-nome-arq-rel                    pic x(250) value spaces.
+          03 ws-nome-arq-rel                    pic x(300) value spaces.
 
        01 wid-relatorio              pic x(250) value spaces.
 
